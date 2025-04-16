@@ -62,40 +62,186 @@ nav {
   opacity: 0.6;
 }
 .line3 {
-  background-color: rgb(18, 18, 18);
   font-family: "Martel Sans", sans-serif;
   color: white;
   z-index: 5;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
+  background-color: rgba(20, 20, 20, 0);
 }
 .line2 {
-  background-color: rgb(18, 18, 18);
   font-family: "Martel Sans", sans-serif;
   color: white;
   font-size: 1.5rem;
   font-weight: 400;
-  margin-bottom: 2rem;
-
   z-index: 5;
+  background-color: rgba(20, 20, 20, 0);
 }
 .line0 {
-  background-color: rgb(18, 18, 18);
   color: white;
   font-size: 3.5rem;
   font-weight: 900;
   font-family: "Martel Sans", sans-serif;
   margin-top: 18vh;
+  margin-bottom: 0px;
+  z-index: 5;
+  background-color: rgba(20, 20, 20, 0);
 }
 .line1 {
-  background-color: rgb(18, 18, 18);
   color: white;
   font-size: 3.5rem;
   font-weight: 900;
   font-family: "Martel Sans", sans-serif;
   margin-top: 0px;
+  z-index: 5;
+  background-color: rgba(20, 20, 20, 0);
 }
-.cards{
-    color: white;
+.hero {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(20, 20, 20, 0);
+  top: -70vh;
+}
+.email {
+  color: white;
+  background-color: white;
+  z-index: 5;
+  background-color: rgba(20, 20, 20, 0);
+  padding: 5px;
+}
+.btn {
+  background-color: red;
+  color: white;
+  padding: 12px 50px 12px 50px;
+  align-items: center;
+  border-radius: 30px;
+  font-size: 24px;
+}
+.email1 {
+  background-color: rgba(74, 73, 73, 0.512);
+  padding: 18px 70px 14px 70px;
+  border-radius: 30px;
+  color: white;
+  font-size: 16px;
+}
+.trend {
+  z-index: 7;
+  color: white;
+  position: relative;
+  top: -60vh;
+}
+.cards {
+  color: white;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  top: -60vh;
+  width: 20vw;
+  align-content: center;
+}
+.card1 {
+  border: 10px solid black;
+  margin: auto;
+  height: 262px;
+  width: 151px;
+  border-radius: 30px;
+}
+.card2 {
+  border: 10px solid black;
+  margin: auto;
+  height: 262px;
+  width: 151px;
+  border-radius: 30px;
+}
+.card3 {
+  border: 10px solid black;
+  margin: auto;
+  height: 262px;
+  width: 151px;
+  border-radius: 30px;
+}
+.card4 {
+  border: 10px solid black;
+  margin: auto;
+  height: 262px;
+  width: 151px;
+  border-radius: 30px;
+}
+.card5 {
+  border: 10px solid black;
+  margin: auto;
+  height: 262px;
+  width: 151px;
+  border-radius: 30px;
+}
+.card6 {
+  border: 10px solid black;
+  margin: auto;
+  height: 262px;
+  width: 151px;
+  border-radius: 30px;
+}
+.card7 {
+  border: 10px solid black;
+  margin: auto;
+  height: 262px;
+  width: 151px;
+  border-radius: 30px;
+}
+.card8 {
+  border: 10px solid black;
+  margin: auto;
+  height: 262px;
+  width: 151px;
+  border-radius: 30px;
+}
+.card9 {
+  border: 10px solid black;
+  margin: auto;
+  height: 262px;
+  width: 151px;
+  border-radius: 30px;
+}
+.card10 {
+  border: 10px solid black;
+  margin: auto;
+  height: 262px;
+  width: 151px;
+  border-radius: 30px;
+}
+.mrtw {
+  position: relative;
+  top: -60vh;
+  color: white;
+}
+.dis {
+  position: relative;
+  top: -60vh;
+  display: flex;
+}
+.dis1 {
+  color: white;
+  background-color: rgb(194, 183, 183);
+  display: flex;
+  flex-direction: column;
+  width: 240px;
+  height: 240px;
+  position: relative;
+  align-items: center;
+}
+.l1 {
+  position: relative;
+  display: flex;
+  background-color: rgb(77, 71, 71);
+  top: 25px;
+  align-items: center;
+  justify-content: center;
+}
+.l2{
+  position: relative;
+  background-color: rgb(77, 71, 71);
+  top: 30px;   
 }
